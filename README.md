@@ -36,7 +36,9 @@ Here are a few projects I'm proud of:
 
 
 ## 🌱 I’m currently learning
-
+- Data Structures and Algorithms with Java
+- Learning Jetpack Compose
+- Exploring Kotlin Mutli Mobile (KMM)
 
 
 ## 🤝 Let's connect!
